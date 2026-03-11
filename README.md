@@ -208,17 +208,7 @@ telegram-scrapper/
 
 ---
 
-## 🚀 Publish to npm
 
-```bash
-# 1. Login to npm
-npm login
-
-# 2. Publish
-npm publish
-```
-
----
 
 ## ⚠️ Notes
 
