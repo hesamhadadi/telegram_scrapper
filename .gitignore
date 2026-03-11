@@ -1,0 +1,8 @@
+node_modules/
+.env
+output/*.json
+!output/example_output.json
+*.session
+*.session-journal
+.DS_Store
+Thumbs.db
