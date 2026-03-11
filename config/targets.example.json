@@ -1,0 +1,14 @@
+{
+  "defaultLimit": 100,
+  "targets": [
+    "@durov",
+    {
+      "username": "@telegram",
+      "limit": 50
+    },
+    {
+      "username": "@TelegramTips",
+      "limit": 200
+    }
+  ]
+}

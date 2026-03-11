@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "scrapedAt": "2026-03-11T10:00:00.000Z",
+    "target": "@example_channel",
+    "totalFetched": 3,
+    "options": {
+      "limit": 100,
+      "includeMedia": false,
+      "offsetDate": null,
+      "minId": null
+    }
+  },
+  "channel": {
+    "id": "1234567890",
+    "title": "Example Channel",
+    "username": "example_channel",
+    "type": "Channel",
+    "participantsCount": 15000,
+    "verified": false,
+    "restricted": false,
+    "scam": false,
+    "fake": false,
+    "about": "This is an example channel",
+    "date": "2020-01-01T00:00:00.000Z"
+  },
+  "messages": [
+    {
+      "id": 1001,
+      "date": "2026-03-11T09:55:00.000Z",
+      "type": "Message",
+      "from": { "type": "channel", "id": "1234567890" },
+      "text": "سلام به همه! این یک پیام تستی است.",
+      "views": 4200,
+      "forwards": 38,
+      "replies": 12,
+      "reactions": [
+        { "emoji": "👍", "count": 120 },
+        { "emoji": "❤️", "count": 85 }
+      ]
+    },
+    {
+      "id": 1000,
+      "date": "2026-03-11T08:00:00.000Z",
+      "type": "Message",
+      "text": "خبر مهم: ...",
+      "views": 8900,
+      "forwards": 210,
+      "replies": 45,
+      "reactions": [
+        { "emoji": "🔥", "count": 300 }
+      ]
+    },
+    {
+      "id": 999,
+      "date": "2026-03-10T20:30:00.000Z",
+      "type": "Message",
+      "text": "محتوای روز",
+      "views": 5100,
+      "forwards": 67,
+      "replies": 22,
+      "reactions": []
+    }
+  ]
+}
