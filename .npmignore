@@ -1,0 +1,17 @@
+# Development
+.env
+.env.*
+!.env.example
+
+# Output
+output/
+
+# Git
+.git/
+.gitignore
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
